@@ -1,0 +1,60 @@
+{
+  "mahasiswa": [
+    {
+      "id": "1",
+      "nama_penilaian": "Aspek Penilaian 1",
+      "mahasiswa_1": "1",
+      "mahasiswa_2": "5",
+      "mahasiswa_3": "3",
+      "mahasiswa_4": "6",
+      "mahasiswa_5": "5",
+      "mahasiswa_6": "2",
+      "mahasiswa_7": "7",
+      "mahasiswa_8": "5",
+      "mahasiswa_9": "9",
+      "mahasiswa_10": "6"
+    },
+    {
+      "id": "2",
+      "nama_penilaian": "Aspek Penilaian 2",
+      "mahasiswa_1": "2",
+      "mahasiswa_2": "4",
+      "mahasiswa_3": "5",
+      "mahasiswa_4": "6",
+      "mahasiswa_5": "2",
+      "mahasiswa_6": "4",
+      "mahasiswa_7": "7",
+      "mahasiswa_8": "2",
+      "mahasiswa_9": "5",
+      "mahasiswa_10": "9"
+    },
+    {
+      "nama_penilaian": "aspek penilaian 3",
+      "mahasiswa_1": "8",
+      "mahasiswa_2": "7",
+      "mahasiswa_3": "9",
+      "mahasiswa_4": "7",
+      "mahasiswa_5": "5",
+      "mahasiswa_6": "8",
+      "mahasiswa_7": "2",
+      "mahasiswa_8": "2",
+      "mahasiswa_9": "5",
+      "mahasiswa_10": "1",
+      "id": "7p3y0Sn"
+    },
+    {
+      "nama_penilaian": "aspek penilaian 4",
+      "mahasiswa_1": "4",
+      "mahasiswa_2": "6",
+      "mahasiswa_3": "7",
+      "mahasiswa_4": "8",
+      "mahasiswa_5": "7",
+      "mahasiswa_6": "5",
+      "mahasiswa_7": "7",
+      "mahasiswa_8": "8",
+      "mahasiswa_9": "9",
+      "mahasiswa_10": "7",
+      "id": "GuwP8cg"
+    }
+  ]
+}
