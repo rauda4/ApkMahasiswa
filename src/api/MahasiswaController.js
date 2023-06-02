@@ -9,12 +9,3 @@ export const GetApiMahasiswa = async () => {
 }
 
 
-//add api
-export const AddDataMahasiswa = async () => {
-    const res = await axios.post(`http://localhost:5000/mahasiswa`)
-    return res;
-  }
-
-//edit api
-
-//delete api
